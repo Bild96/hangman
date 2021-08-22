@@ -15,5 +15,11 @@ Arweave URL: https://arweave.net/PhjUGuiWgwkwlfqRKrW7NJlBHx7Yzm4ZLOEA5TL3wY8
 
 **GOOD LUCK & SAVE THE MAN**
 
+Trasaction ID: PhjUGuiWgwkwlfqRKrW7NJlBHx7Yzm4ZLOEA5TL3wY8
+
+AR: eoyljXxYnN03zbPYBpZdPThrQao6-yvWPnysan7MIx8
+
+ETH: 0xfd7a470001364d707c81074142b6aC9248B0b0cc
+
 
 
